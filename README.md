@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://github.com/Raven-D3v/OneTapSOS/blob/b335f266417fe3104f9bd4d9aea1fc93cb112055/Logo/OneTapSOS-Logo.png" alt="OneTapSOS Banner" width="100%"> </p>
+
 # 🆘 OneTapSOS
 
 ### **An AI-Powered SMS Emergency Alert System for Reporting Robbery and Assault**
